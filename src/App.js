@@ -11,11 +11,11 @@ const App = () => {
       <address>
         <p>My contact information:</p>
         <ul>
-          <li style={{listStyle: "none"}}>eduardocanellas@id.uff.br</li>
+          <li style={{ listStyle: "none" }}>eduardocanellas@id.uff.br</li>
         </ul>
       </address>
     </>
   );
-}
+};
 
 export default App;
